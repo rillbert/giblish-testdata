@@ -1,0 +1,9 @@
+= Toplevel document for the giblish test suite
+:toc: left
+:docid: GT-001
+:imagesdir: images
+:numbered:
+
+== Purpose
+
+This repository contains documents used to test the 'giblish' tool. It does not contain any application at all, only test documents and possibly other test data.
